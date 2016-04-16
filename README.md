@@ -3,11 +3,11 @@
 > 卧槽  
 > 这是什么情况 **你好**
 
-`
-	public static void main(String args[]){
-		System.out.println()；
-	}
-`
+``` java		 	
+		public static void main(String args[]){
+			System.out.println()；
+		}
+```
 ***
 
 | 表头1 | 表头2 | 表头3 |
@@ -16,5 +16,5 @@
 | neirong | neirong | neirong |
 |wocao | wocao | wocao |
 | hello | hello | hello |
- 
+
 
